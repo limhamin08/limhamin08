@@ -60,26 +60,8 @@ Choose from any of the [default themes](#themes)
 
 
 
-### On other platforms
-
-> **Warning**
-
-<details>
-<summary><b>:hammer_and_wrench: Step-by-step guide for deploying on other platforms</b></summary>
-
-1. Fork or clone this repo as per your needs
-2. Add `express` to the dependencies section of `package.json`
-https://github.com/anuraghazra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61
-3. Run `npm i` if needed (initial setup)
-4. Run `node express.js` to start the server, or set the entry point to `express.js` in `package.json` if you're deploying on a managed service
-https://github.com/anuraghazra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11
-5. You're done 🎉
-</details>
-
-### Keep your fork up to date
 
 
-## :sparkling_heart: Support the project
 
 Thanks! :heart:
 
