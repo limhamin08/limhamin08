@@ -51,17 +51,7 @@ Choose from any of the [default themes](#themes)
 -   Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhamin08)](https://github.com/limhamin08/github-readme-stats)
-
--   WakaTime card
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limhamin08)](https://github.com/limhamin08/github-readme-stats)
-
 * * *
-
-
-
-
-
 
 Thanks! :heart:
 
