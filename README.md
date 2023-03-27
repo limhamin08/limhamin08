@@ -38,7 +38,7 @@ Choose from any of the [default themes](#themes)
 
 -   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=limhamin08&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
@@ -50,11 +50,11 @@ Choose from any of the [default themes](#themes)
 
 -   Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhamin08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhamin08)](https://github.com/limhamin08/github-readme-stats)
 
 -   WakaTime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limhamin08)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limhamin08)](https://github.com/limhamin08/github-readme-stats)
 
 * * *
 
