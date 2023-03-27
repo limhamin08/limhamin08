@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhamin08)
 
--   Customizing repo card
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=limhamin08&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 -   Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhamin08)](https://github.com/limhamin08/github-readme-stats)
